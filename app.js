@@ -1,3 +1,9 @@
+// var fullScreen = document.getElementById("fullScreen");
+//
+// fullScreen.addEventListener("click", function() {
+//   document.body.requestFullscreen();
+// }, false);
+
 function imageClicked() {
   var images = document.querySelectorAll("img");
   var curIndex = 0;
