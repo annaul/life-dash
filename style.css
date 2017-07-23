@@ -1,5 +1,10 @@
+
 img {
-  display: block;
+  display: none;
   height: 100vh;
   margin: 20px auto;
+}
+
+img:first-child {
+  display: block;
 }
